@@ -1,5 +1,5 @@
 <h1 align="center">i'm Gowrishankar.v.v</h1>
-<h3 align="center">Entrepreneur 👨‍💻 and BTECH student,Freelancer. Founder&CEO of Igoraza, kerala,India @igoraza_ Full stack webDeveloper. Flutter. Android&Cybersecurity 👨‍💻</h3>
+<h3 align="center">Entrepreneur 👨‍💻 and BTECH student,Freelancer. Founder&CEO of Igoraza, kerala,India @igoraza Full stack webDeveloper. Flutter. Android&Cybersecurity 👨‍💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gowrishankarvv&label=Profile%20views&color=0e75b6&style=flat" alt="gowrishankarvv" /> </p>
 
