@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gowrishankarvv" alt="gowrishankarvv" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [gowrishankarvv.ml](gowrishankarvv.in)
+- 👨‍💻 All of my projects are available at [gowrishankarvv.in](gowrishankarvv.in)
 
 - 📫 How to reach me **gowrishankarvv1@gmail.com**
 
-- 📄 Know about my experiences [gowrishankarvv.ml](gowrishankarvv.ml)
+- 📄 Know about my experiences [gowrishankarvv.in](gowrishankarvv.in)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
